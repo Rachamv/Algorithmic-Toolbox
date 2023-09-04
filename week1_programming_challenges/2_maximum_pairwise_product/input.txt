@@ -1,0 +1,1 @@
+Usage: python test_script.py <test_size> <seed> <expected_output>
